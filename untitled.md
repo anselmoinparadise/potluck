@@ -17,5 +17,3 @@
 **Aurora Families for Housing is a coalition of community groups, churches and labor. They are able to copy, paste and modify the Boulder model according to local needs. As more cities setup bond campaigns, Aurora agrees to share data on how effective different voter/member contact messages are, in addition to data on volunteer engagement with particular chomps. This collaboration promotes a statewide ecosystem where organizers can quickly design, test and share campaign systems based on value.**  
 
 
-User's Story: Creating a Template
-
