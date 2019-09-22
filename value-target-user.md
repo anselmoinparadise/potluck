@@ -26,7 +26,7 @@ Potluck could change this system by permitting users to retain a copy of the inp
 
 Change models are always changing, and it's important to test and deploy new models quickly. Presidential campaigns, political parties, trade groups and unions have the resources to release new platforms every election cycle, fine tuned to their strategy. But outside of these institutions, it is much harder to adapt, or at least market a new way of doing things. 
 
-On Potluck, a developer could write scripts that further improve or automate a model, and then deploy directly into the marketplace, or push/propose updates to tables under their purview. The super volunteer has more opportunities to collaborate and create value with developers, expanding the culture of open source innovation.
+On Potluck, a developer could write scripts that further improve or automate a model, and then deploy directly into the marketplace, or push/propose updates to tables under their purview. The super volunteer has more opportunities to collaborate and create value with developers, expanding the culture of  innovation.
 
 
 
