@@ -1,8 +1,12 @@
 # Welcome
 
-Potluck is a workflow environment for grassroots political change. This project is about changing our world in clear steps, enabling the user to experience proof-driven family in action.
+Potluck re-tools distributed grassroots organizing models with reflective listening, a simple and accessible way of engaging the empathy process in our brains and bodies. 
 
-Political science is constantly evolving with more transparent, healthy and effective ways to engage our democracy. But when systems prove to work well, it's hard to replicate them. Potluck is about making it easier to openly distribute electoral and advocacy systems for specific campaigns and situations.
+In most conversations we use active listening-- when you are speaking, I am patiently and quietly listening. When I speak, you'd return the favor. Reflective Listening adds one step. As you listen, you reflect back, paraphrase, describe the meaning and feeling of what the speaker conveyed to you. This small change makes a big impact in a number of ways, boosting learning, concentration, and the all-alluring love hormone, oxytocin. 
 
-There is a bottleneck of experience and trust between the career professionals who run our political system, and members of the general public. When a new volunteer walks in the door of a congressional campaign, it is difficult to verify their experience level or trust their personal judgment. This is why Potluck aims for **a model of distributed organizing based on knowledge proofs, a proof attached to each specific gig**, thereby increasing one's speed and ability to move between organizations and earn permissions for specialized roles. 
+Reflective listening is already successful in healthcare, education and business. Political movements already apply active listening every day, why not add the simple step? 
+
+As you navigate this project description, please consider supporting Potluck. Let's develop and test experiences that gamify the reflective listening process for any kind of work or learning. Thank you for your time and consideration.
+
+
 
