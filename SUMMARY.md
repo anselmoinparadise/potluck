@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Welcome](README.md)
-* [User Stories](user-stories/README.md)
-  * [Building Tables](user-stories/building-tables.md)
-  * [Cooking Chomps](user-stories/cooking-chomps.md)
-  * [Earning Charms](user-stories/untitled.md)
-* [Value/Target User](value-target-user.md)
+* [Problem/Solution](README.md)
+* [Building Tables](building-tables.md)
+* [Cooking Chomps](cooking-chomps.md)
+* [Earning Charms](untitled.md)
 * [Contact](contact.md)
 
