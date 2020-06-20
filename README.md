@@ -12,7 +12,7 @@ And,
 
 **Solution 2:** Gamify the process of reflective listening on video conference using the Empathy Cafe model.
 
-The idea is to on ramp early adopters with an MVP focused on Empathy Cafe. If users love it, continue to build features into a productivity/MOOC platform. 
+The idea is to on ramp early adopters with an MVP focused on Empathy Cafe. If a core group of users love it, continue to build features into a productivity/MOOC platform. 
 
 Potluck re-tools distributed grassroots organizing models with reflective listening, a simple and accessible way of engaging the empathy process in our brains and bodies. 
 
