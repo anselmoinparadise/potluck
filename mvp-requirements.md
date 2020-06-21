@@ -4,6 +4,8 @@ Participants will be able to host an empathy cafe or an unstructured hangout on 
 
 [Learn about the Empathy Cafe process here.](empathy-cafe-process.md) The requirements below do not instruct an overview of the process.
 
+Contact zak@potluckaction.com for the current XD wire frame
+
 ![](.gitbook/assets/activelistenerview.jpg)
 
 Participants in the Active Listener or Facilitator position can confirm regular charms for the speaker, listener, or facilitator. Search/select charms to confirm for other participants. You can only confirm charms that you have an associated degree in.
