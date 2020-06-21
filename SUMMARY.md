@@ -5,5 +5,6 @@
 * [Building Tables](building-tables.md)
 * [Cooking Chomps](cooking-chomps.md)
 * [Earning Charms](untitled.md)
+* [Empathy Cafe Process](empathy-cafe-process.md)
 * [Contact](contact.md)
 
