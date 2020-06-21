@@ -2,7 +2,7 @@
 
 Participants will be able to host an empathy cafe or an unstructured hangout on video conference, save a recording, and issue timestamped charm confirmations required to earn the Facilitator degree. Participants will be able to make Motions and vote on them. When the cafe is complete, the user receives an email report of the Minutes, or timestamped events of the cafe. The user will be able to use the minutes to reference parts of the meeting recording, which they can download locally during or at the conclusion of the cafe.
 
-Learn about the Empathy Cafe process here. The requirements below do not instruct an overview of the process.
+[Learn about the Empathy Cafe process here.](empathy-cafe-process.md) The requirements below do not instruct an overview of the process.
 
 ![](.gitbook/assets/activelistenerview.jpg)
 
